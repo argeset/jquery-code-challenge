@@ -3,8 +3,7 @@ qqqqqqqqqqq
 We are looking for a Senior Frontend Developer at Argeset Yazılım.
 
 You are going to be a part of the team that is developing a SAAS CRM product.
-
-And you should'nt be allergic to Visual Studio and ASP.NET MVC.
+nd you should'nt be allergic to Visual Studio and ASP.NET MVC.
 
 Here are some keywords that explains our needs.
 
